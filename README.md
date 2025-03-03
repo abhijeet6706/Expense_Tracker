@@ -42,7 +42,7 @@ expense-tracker/
 
 ## Demo
 For a live demonstration of this project, visit:
-[Live Demo](https://yourgithubusername.github.io/expense-tracker/)
+[Live Demo](https://abhijeet6706.github.io/Expense_Tracker/)
 
 ## Future Enhancements
 
